@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Hospital Operations",
+  "description": "Interactive hospital operations analytics dashboard with admissions, staff workload, bottleneck forecasting, and an AI analytics assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
